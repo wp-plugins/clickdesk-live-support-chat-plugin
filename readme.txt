@@ -66,12 +66,16 @@ Benefits of ClickDesk
 == Screenshots ==
 
 1. Templates
-2. Signup/Login
-3. Add Operator
-4. Operator added successfully
-5. Department added and plugin installed successfully
-6. Live chat form (offline) on website
-7. Live chat (online)
+2. Live support your visitors even on mobile!
+3. How ClickDesk works
+4. Live Support + VoIP Call
+5. Social Toolbar
+6. Signup/Login
+7. Add Operator
+8. Operator added successfully
+9. Department added and plugin installed successfully
+10. Live chat form (offline) on website
+11. Live chat (online)
 
 == Frequently Asked Questions ==
 
