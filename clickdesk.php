@@ -3,8 +3,8 @@
 /*
 Plugin Name: ClickDesk Live-Chat & Live-Call
 Plugin URI: http://www.clickdesk.com
-Description: Add the fastest livechat service to your website.
-Version: 0.9a
+Description: Add the fastest livechat and free VoIP browser phone service to your website.
+Version: 2.0
 Author: ClickDesk
 Author URI: http://www.clickdesk.com
 License: GPL2
