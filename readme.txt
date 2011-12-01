@@ -1,6 +1,6 @@
 === ClickDesk Live Support - Live Chat Plugin for Websites ===
 Contributors: jagan.2desk
-Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook
+Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport
 
 Requires at least: 2.7
 Tested up to: 3.2.1
