@@ -4,7 +4,7 @@ Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live
 
 Requires at least: 2.7
 Tested up to: 3.2.1
-Stable tag: 2.0
+Stable tag: 3.0
 
 ClickDesk is the fastest live-chat service. Built-in Browser Phone and local access numbers in 40 countries are included. Install it Free today!
 
@@ -65,6 +65,11 @@ Benefits of ClickDesk
 
 
 == Changelog ==
+
+= 3.0 =
+
+* Major version update
+* Enhanced security. Fixed a bug
 
 = 2.0 =
 
