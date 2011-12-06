@@ -11,8 +11,8 @@ License: GPL2
 */
 
 // Constants 
-define('LIVILY_SERVER_URL', "http://wp-1.contactuswidget.appspot.com/");
-define('LIVILY_DASHBOARD_URL', LIVILY_SERVER_URL.'widgets.jsp?wpurl=');
+define('LIVILY_SERVER_URL', "http://contactuswidget.appspot.com/");
+define('LIVILY_DASHBOARD_URL', LIVILY_SERVER_URL.'widgets-wp.jsp?wpurl=');
 define('LIVILY_ICON_URL', "https://contactuswidget.appspot.com/images/getfavicon.png");
 
 // Wordpress DB
