@@ -4,7 +4,7 @@
 Plugin Name: ClickDesk Live-Chat & Live-Call
 Plugin URI: http://www.clickdesk.com
 Description: Add the fastest livechat service to your website.
-Version: 0.9a
+Version: 3.1
 Author: ClickDesk
 Author URI: http://www.clickdesk.com
 License: GPL2
