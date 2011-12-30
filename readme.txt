@@ -12,6 +12,8 @@ ClickDesk is the fastest live-chat service. Built-in Browser Phone and local acc
 
 Besides being the fastest live-chat service, ClickDesk also allows visitors to call your business directly from browser or our local access numbers in 40+ countries.
 
+Listed among the **"Top 10 must have plugins of 2011"** by TheProgrammingBlog.com
+
 **Testimonials**
 
 * The process to install this wonderfull plugin was fast and simple thanks to your tutorial movie. The plugin works great. I rated it with 6 stars, only because the plugin really earns it! keep up the good work and you make many people happy! Thanks again! - Rien
