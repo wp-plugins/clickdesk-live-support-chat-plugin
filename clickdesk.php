@@ -3,15 +3,15 @@
 /*
 Plugin Name: ClickDesk Live-Chat & Live-Call
 Plugin URI: http://www.clickdesk.com
-Description: Add the fastest livechat service to your website.
-Version: 3.1
+Description: Add the fastest livechat and call service to your website.
+Version: 3.2
 Author: ClickDesk
 Author URI: http://www.clickdesk.com
 License: GPL2
 */
 
 // Constants 
-define('LIVILY_SERVER_URL', "http://contactuswidget.appspot.com/");
+define('LIVILY_SERVER_URL', "https://contactuswidget.appspot.com/");
 define('LIVILY_DASHBOARD_URL', LIVILY_SERVER_URL.'widgets-wp.jsp?wpurl=');
 define('LIVILY_ICON_URL', "https://contactuswidget.appspot.com/images/getfavicon.png");
 
@@ -39,6 +39,17 @@ function livily_livechat_get_options() {
 function livily_livechat_uninstall() {
 	// Delete all options for db
 	delete_option( LIVILY_DB_OPTION_NAME );
+}
+
+
+function lastIndexOf($string,$item){
+    $index=strpos(strrev($string),strrev($item));
+    if ($index){
+        $index=strlen($string)-strlen($item)-$index;
+        return $index;
+    }
+        else
+        return -1;
 }
 
 function clickdesk_widget_add_scripts() {
@@ -102,15 +113,23 @@ function livily_dashboard() {
   
    $cdwidgetid = $_GET["cdwidgetid"];
  
+   $blogURL = get_bloginfo('url');
 
-   $Path=get_bloginfo('url').$_SERVER['REQUEST_URI'];
+   $lastindex = lastIndexOf($blogURL,"/");
 
+   $requestURI = $_SERVER['REQUEST_URI'];
+
+   if($lastindex > 8){
+      $blogURL = substr($blogURL,0,$lastindex);
+
+   }
+
+   $Path = $blogURL.$requestURI;
+  
    $Path = urlencode($Path);
 
    $cdURL= LIVILY_DASHBOARD_URL.$Path;
 
-  
- 
    if(strlen($cdwidgetid) != 0){
           
       $result = livily_livechat_save_options( $cdwidgetid );
