@@ -16,8 +16,6 @@ Listed among the **"Top 10 must have plugins of 2011"** by TheProgrammingBlog.co
 
 **Testimonials**
 
-* Top 10 plugins of 2011 - TheProgrammingBlog
-
 * The process to install this wonderfull plugin was fast and simple thanks to your tutorial movie. The plugin works great. I rated it with 6 stars, only because the plugin really earns it! keep up the good work and you make many people happy! Thanks again! - Rien
 
 * Thank you for creating such a wonderful service, it has clearly saved the day.
