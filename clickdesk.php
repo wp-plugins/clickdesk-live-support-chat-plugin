@@ -12,7 +12,7 @@ License: GPL2
 
 // Constants 
 define('LIVILY_SERVER_URL', "https://contactuswidget.appspot.com/");
-define('LIVILY_DASHBOARD_URL', LIVILY_SERVER_URL.'widgets-wp.jsp?wpurl=');
+define('LIVILY_DASHBOARD_URL', LIVILY_SERVER_URL.'widgets-wp.jsp?cdplugin=wordpress&wpurl=');
 define('LIVILY_ICON_URL', "https://contactuswidget.appspot.com/images/getfavicon.png");
 
 // Wordpress DB
