@@ -3,8 +3,8 @@ Contributors: jagan.2desk
 Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport
 
 Requires at least: 2.7
-Tested up to: 3.3
-Stable tag: 3.2
+Tested up to: 3.3.1
+Stable tag: 3.2.1
 
 ClickDesk is the fastest live-chat service. Built-in Browser Phone and local access numbers in 40 countries are included. Install it Free today!
 
@@ -12,9 +12,12 @@ ClickDesk is the fastest live-chat service. Built-in Browser Phone and local acc
 
 Besides being the fastest live-chat service, ClickDesk also allows visitors to call your business directly from browser or our local access numbers in 40+ countries.
 
-**Testimonials**
+Listed among the **"Top 10 must have plugins of 2011"** by TheProgrammingBlog.com
 
-* Top 10 plugins of 2011 - TheProgrammingBlog
+**Special Offer**
+UPGRADE TO THE PRO PLAN FOR JUST $1 FOR 90 DAYS!
+
+**Testimonials**
 
 * The process to install this wonderfull plugin was fast and simple thanks to your tutorial movie. The plugin works great. I rated it with 6 stars, only because the plugin really earns it! keep up the good work and you make many people happy! Thanks again! - Rien
 
@@ -68,9 +71,12 @@ Benefits of ClickDesk
 
 == Changelog ==
 
-= 3.2 =
+= 3.2.1 =
+* Dashboard changes
+* Special offer - $1 for 90days trial
 
-* Bug fix (installation in subdirectory)
+= 3.2 =
+* Fixed a bug (installation in sub directories)
 
 = 3.0 =
 
