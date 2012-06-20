@@ -1,10 +1,9 @@
-<?php session_start(); ?>
 <?php
 /*
 Plugin Name: ClickDesk Live-Chat, Help Desk & Live-Call
 Plugin URI: http://www.clickdesk.com
-Description: Add the fastest live chat, lite help desk and call service to your website.
-Version: 3.3
+Description: Add the fastest live chat, lite help desk & voice chat service to your website for FREE.
+Version: 3.3.1
 Author: ClickDesk
 Author URI: http://www.clickdesk.com
 License: GPL2

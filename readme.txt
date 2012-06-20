@@ -1,10 +1,10 @@
 === ClickDesk Live Support - Live Chat - Help Desk Plugin for Websites ===
 Contributors: jagan.2desk
-Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport, help desk software, live chat wordpress, wordpress live chat plugin
+Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, voip, voice chat, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, csupport, help desk software, live chat wordpress, wordpress live chat plugin, capsule crm, nutshell crm, highrise crm, CRM, ZOHO CRM, client relationship management
 
 Requires at least: 2.7
-Tested up to: 3.3
-Stable tag: 3.3
+Tested up to: 3.4
+Stable tag: 3.3.1
 
 ClickDesk provides a wonderful combo of lightning-fast live chat, built-in browser phone, lite help desk and social toolbar. Install it Free today!
 
@@ -12,11 +12,13 @@ ClickDesk provides a wonderful combo of lightning-fast live chat, built-in brows
 
 Besides being the fastest live-chat service, ClickDesk also allows visitors to call your business directly from browser or by dialing our local access numbers in 40+ countries. Manage your emails & offline chats with the new integrated lite help desk.
 
-**"Top 10 must have plugins of 2011"** by TheProgrammingBlog.com
+**"Top 10 must have plugins of 2011"** - TheProgrammingBlog.com
+
+**"An extension to your social media presence or Web site" - NetworkWorld 4.5/5.
 
 **SPECIAL OFFER** 
 
-Get help desk access for FREE
+Included help desk access for FREE
 
 [youtube http://www.youtube.com/watch?v=4Yiyaz0k8yk]
 
@@ -35,7 +37,6 @@ ClickDesk for the first time in the industry **integrates live-chat and call dir
 Lite help desk allows you to manage all your emails and offline chats from a simple and quick ticketing interface.
 Optional Push2Call **has a browser phone** and provides local access number in more than 40 countries for your visitors to reach your business. Optional Help Desk allows you to manage all your customer emails easily. 
 
-NetworkWorld - "an extension to your social media presence or Web site" - rates it 4.5/5.
 
 Here is the ClickDesk wordpress plugin setup video:
 [youtube http://www.youtube.com/watch?v=oWLMgBkfgaA]
@@ -66,6 +67,7 @@ Benefits of ClickDesk
 * Skype Call - Visitors can skype call you directly
 * **Combo of fastest live chat, VoIP phone and social toolbar**
 * Fully customizable - colors, themes, templates, position
+* Plugins to integrate with zendesk, salesforce, ZOHO CRM and many other CRM, help desk and billing systems
 
 **Why should I install ClickDesk live support plugin?**
 
@@ -80,6 +82,10 @@ Benefits of ClickDesk
 
 
 == Changelog ==
+
+= 3.3.1 =
+* Compatible with Wordpress 3.4 version
+* Fixed a bug (works with Jigoshop plugin). Add ClickDesk live chat to your ecommerce wordpress sites.
 
 = 3.3 =
 * Built-in help desk release
