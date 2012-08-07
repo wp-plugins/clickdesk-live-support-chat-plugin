@@ -4,7 +4,7 @@ Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live
 
 Requires at least: 2.7
 Tested up to: 3.4.1
-Stable tag: 3.3
+Stable tag: 3.3.1
 
 ClickDesk provides a wonderful combo of lightning-fast live chat, built-in browser phone, lite help desk and social toolbar. Install it Free today!
 
@@ -90,6 +90,7 @@ Benefits of ClickDesk
 = 3.3 =
 * Built-in help desk release
 * You can now access the new help desk features that comes along with ClickDesk
+* Fixed Jigoshop bug.
 
 = 3.2.1 =
 * Dashboard updated
