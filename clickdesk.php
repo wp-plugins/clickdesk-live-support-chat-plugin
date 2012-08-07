@@ -1,4 +1,3 @@
-<?php session_start(); ?>
 <?php
 /*
 Plugin Name: ClickDesk Live-Chat, Help Desk & Live-Call
