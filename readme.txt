@@ -12,15 +12,15 @@ ClickDesk provides a wonderful combo of lightning-fast live chat, built-in brows
 
 == Description ==
 
-Besides being the fastest live-chat service, ClickDesk also allows visitors to call your business directly from browser or by dialing our local access numbers in 40+ countries. Manage your emails & offline chats with the new integrated lite help desk.
+Besides being the fastest live chat service, ClickDesk also allows visitors to call your business directly from browser or by dialing our local access numbers in 40+ countries. Manage your emails & offline chats with the new integrated lite help desk.
 
 **"Top 10 must have plugins of 2011"** by MyProgrammingBlog.com
 
-**"An extension to your social media presence or Web site" - NetworkWorld 4.5/5
+"An extension to your social media presence or Web site" - NetworkWorld 4.5/5
 
 **SPECIAL OFFER** 
 
-Get help desk access for FREE
+Get access to our new help desk for FREE
 
 [youtube http://www.youtube.com/watch?v=4Yiyaz0k8yk]
 
@@ -34,7 +34,7 @@ Your service, ClickDesk, is simply amazing, I have searched the web for hours an
 
 **Description**
 
-ClickDesk for the first time in the industry **integrates live-chat and call directly into your IM** - you can conveniently take chats and answer calls on your IM on computer or mobile phone. Receive chats, calls and email ticket notifications on Google talk or Skype.
+ClickDesk for the first time in the industry **integrates live chat and voice chat directly into your IM** - you can conveniently take chats and answer calls on your IM on computer or mobile phone. Receive chats, calls and email ticket notifications on Google talk or Skype.
 
 Lite help desk allows you to manage all your emails and offline chats from a simple and quick ticketing interface.
 Optional Push2Call **has a browser phone** and provides local access number in more than 40 countries for your visitors to reach your business. Optional Help Desk allows you to manage all your customer emails easily. 
