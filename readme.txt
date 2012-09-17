@@ -64,7 +64,7 @@ Benefits of ClickDesk
 * Receive **live chats on Gtalk, Skype**, MSN, Yahoo or AOL
 * Integrated help desk ticketing system to access your emails and offline chat messages
 * Built-in "Click to Call" button powered by Contact-Call plugin
-* Free to use plugin upto 50 chats per month - unlimited plans starting at $9.99/month
+* Free to use plugin upto 30 chats per month - unlimited plans starting at $9.99/month
 * Fully hosted and Based on Google cloud
 * Integrated social toolbar with facebook, twitter and other social networks
 * Skype Call - Visitors can skype call you directly
@@ -141,13 +141,13 @@ Benefits of ClickDesk
 
 = Is it Free to use? =
 
-Yes. Live chat plugin along with the wonderful combo feature of help desk, browser phone and is free to use for 1 operator and upto 50 chats per month. Paid plans start at $9.99/month.
+Yes. Live chat plugin along with the wonderful combo feature of help desk, browser phone and is free to use for 1 operator and upto 30 chats per month. Paid plans start at $9.99/month.
 
 = What much does it cost? =
 
 **For webvisitor:** FREE. Your web visitors do not pay anything to live chat or call you to get their queries answered. 
 
-**For website owners:** FREE to receive and chat with upto 50 sessions. To add more operators, departments or to upgrade to unlimited chats plan, please visit our <a href="http://www.clickdesk.com/pricing.jsp">pricing page</a>
+**For website owners:** FREE to receive and chat with upto 30 sessions. To add more operators, departments or to upgrade to unlimited chats plan, please visit our <a href="http://www.clickdesk.com/pricing.jsp">pricing page</a>
 
 = Do I get help desk feature for free? =
 Limited offer: All the signed up users can use help desk free.
