@@ -3,7 +3,7 @@
 Plugin Name: ClickDesk Live-Chat, Help Desk & Live-Call
 Plugin URI: http://www.clickdesk.com
 Description: Add the fastest live chat, lite help desk & voice chat service to your website for FREE.
-Version: 3.4
+Version: 3.5
 Author: ClickDesk
 Author URI: http://www.clickdesk.com
 License: GPL2
@@ -150,6 +150,4 @@ function livily_dashboard() {
    
  
 }
-
-
 ?>
