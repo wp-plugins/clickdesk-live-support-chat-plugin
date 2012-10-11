@@ -176,18 +176,16 @@ If you do not want to receive chats or wish to take ClickDesk to "offline" mode,
 
 == Installation ==
 
-*Server Requirements:* PHP5 with PHP Curl installed.
-
 *Wordpress versions:* Wordpress 2.7 or higher.
 
-**How should I setup ClickDesk live chat for my site?**
+**How should I setup ClickDesk's Wordpress live chat for my site?**
 
 It's very simple. Just follow the easy steps listed below
 
-* Install and activate the plugin
-* Add operator
-* Create a department and add this operator
-* Click on "Install Plugin" to see ClickDesk live on your website
+* Install and activate this plugin
+* Click on the 'ClickDesk live chat' tab on the left side bar of your dashboard. Click 'Go to dashboard', Signup and login.
+* Click the 'install plugin' link after logging in and add an operator.
+* You can see ClickDesk appear on your website.
 * Click on 'Add HelpDesk' if you would like to enable the built-in lite help desk feature
 
 *Thanks for using ClickDesk* :)
