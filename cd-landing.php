@@ -19,7 +19,7 @@
 <header>
 <br />
 <h1 class="ac">Engage visitors online on your Wordpress site now!<br/>
-<small> Fastest Signup | One click install to get live chat, voice chat, help desk & social toolbar</small></h1></br/>
+<small>One click install to get live chat, voice chat, help desk & social toolbar on your wordpress site</small></h1></br/>
 </header>
 
 		<div class="row">
