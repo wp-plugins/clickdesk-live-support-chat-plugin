@@ -2,12 +2,31 @@
 /*
 Plugin Name: ClickDesk Live-Chat, Help Desk & Live-Call
 Plugin URI: http://www.clickdesk.com
-Description: Add the fastest live chat, lite help desk & voice chat service to your website for FREE.
-Version: 3.5
+Description: Add the fastest <strong>live chat, help desk, voice chat & social toolbar</strong> service to your website for FREE. Receive live chats & calls on your Gtalk or Skype. This plugin comes with a free plan.
+Version: 3.5.1
 Author: ClickDesk
 Author URI: http://www.clickdesk.com
 License: GPL2
 */
+
+/*
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+*/
+
+
+
 
 // Constants 
 define('LIVILY_SERVER_URL', "https://contactuswidget.appspot.com/");
@@ -64,13 +83,13 @@ function clickdesk_widget_add_scripts() {
     wp_enqueue_script('push2call_script_client', plugins_url('/js/widget.js', __FILE__), array('jquery'), '1.0.1',true);
 
 	?>
-	<!-- Start of InVox.com Widget -->
+	<!-- Start of ClickDesk.com live chat Widget -->
 	<script  type="text/javascript">
 	
 	var _glc =_glc || [];
 	_glc.push('<?php echo $cdwidgetid ?>');
 	</script>
-	<!-- End of InVox.com Widget -->
+	<!-- End of ClickDesk.com live chat Widget -->
   
 <?php
 	
@@ -97,7 +116,7 @@ add_action('admin_menu', 'livily_create_menu');
 function livily_create_menu() {
   
    //create new top-level menu
-   add_menu_page('Account Configuration', 'ClickDesk Live-Chat', 'administrator', 'livily_dashboard_1', 'livily_dashboard_1',LIVILY_ICON_URL);
+   add_menu_page('Account Configuration', 'ClickDesk', 'administrator', 'livily_dashboard_1', 'livily_dashboard_1',LIVILY_ICON_URL, '79');
     
   $page_ref = add_submenu_page('livily_account_config', 'ClickDesk Live-Chat', 'ClickDesk Live-Chat', 'administrator', 'livily_dashboard', 'livily_dashboard');
 

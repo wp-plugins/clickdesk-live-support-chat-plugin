@@ -2,11 +2,11 @@
 
 Contributors: jagan.2desk
 
-Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport, help desk software, live chat wordpress, wordpress live chat plugin
+Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport, help desk software, live chat wordpress, wordpress live chat plugin, wordpress live chat
 
 Requires at least: 2.7
 Tested up to: 3.4.2
-Stable tag: 3.5
+Stable tag: 3.5.1
 
 ClickDesk provides a wonderful combo of lightning-fast live chat, built-in browser phone, lite help desk and social toolbar. Install it Free today!
 
@@ -14,13 +14,18 @@ ClickDesk provides a wonderful combo of lightning-fast live chat, built-in brows
 
 Besides being the fastest live chat service, ClickDesk also allows visitors to call your business directly from browser or by dialing our local access numbers in 40+ countries. Manage your emails & offline chats with the new integrated lite help desk.
 
-**"Top 10 must have plugins of 2011"** by MyProgrammingBlog.com
+"40 Best Plugins Ever!" - Makeuseof.com
+
+"Best live chat plugin for Wordpress" - WPmayor.com
+
+"Easy to install, simple to use, straightforward to configure, and with a wealth of options, their plugin enables a popup window that offers the visitor the ability to instant message you, call you, or engage with you on Twitter or Facebook." - WPMU.org
+
+"Top 10 must have plugins" - MyProgrammingBlog.com
 
 "An extension to your social media presence or Web site" - NetworkWorld 4.5/5
 
-**SPECIAL OFFER** 
+**Watch the Intro video** 
 
-Get access to our new help desk for FREE
 
 [youtube http://www.youtube.com/watch?v=4Yiyaz0k8yk]
 
@@ -68,7 +73,7 @@ Benefits of ClickDesk
 * Fully hosted and Based on Google cloud
 * Integrated social toolbar with facebook, twitter and other social networks
 * Skype Call - Visitors can skype call you directly
-* **Combo of fastest live chat, VoIP phone and social toolbar**
+* **Combo of fastest live chat, voice chat, help desk and social toolbar**
 * Fully customizable - colors, themes, templates, position
 
 **Why should I install ClickDesk live support plugin?**
@@ -84,6 +89,10 @@ Benefits of ClickDesk
 
 
 == Changelog ==
+
+= 3.5.1 =
+* Optimized code
+* Minor bug fixes & description update
 
 = 3.5 =
 * Major update - One click live chat plugin install
@@ -184,8 +193,8 @@ It's very simple. Just follow the easy steps listed below
 
 * Install and activate this plugin
 * Click on the 'ClickDesk live chat' tab on the left side bar of your dashboard. Click 'Go to dashboard', Signup and login.
-* Click the 'install plugin' link after logging in and add an operator.
-* You can see ClickDesk appear on your website.
-* Click on 'Add HelpDesk' if you would like to enable the built-in lite help desk feature
+* Your plugin gets immediately activated upon login and the livechat box appears on your wordrpess website.
+* Add an operator and verify it by accepting the contact bots received on your Google talk IM or Skype.
+* Click on 'Add HelpDesk' if you would like to enable the built-in help desk feature.
 
 *Thanks for using ClickDesk* :)
