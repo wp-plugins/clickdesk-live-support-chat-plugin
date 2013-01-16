@@ -2,27 +2,28 @@
 
 Contributors: jagan.2desk
 
-Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport, help desk software, live chat wordpress, wordpress live chat plugin, wordpress live chat
+Tags: live chat, widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk button, SkypeMe, Google chat button, gtalk chat, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport, help desk software, live chat wordpress, wordpress live chat plugin, wordpress live chat
 
 Requires at least: 2.7
-Tested up to: 3.4.2
-Stable tag: 3.5.1
+Tested up to: 3.5
+Stable tag: 3.6
 
-ClickDesk provides a wonderful combo of lightning-fast live chat, built-in browser phone, lite help desk and social toolbar. Install it Free today!
+ClickDesk provides a magic bundle of lightning-fast wordpress live chat, voice chat, lite help desk and social toolbar. Install it Free today!
 
 == Description ==
 
-Besides being the fastest live chat service, ClickDesk also allows visitors to call your business directly from browser or by dialing our local access numbers in 40+ countries. Manage your emails & offline chats with the new integrated lite help desk.
+Besides being the fastest live chat service, ClickDesk also allows visitors to click to call your business directly from browser or by dialing our local access numbers in 40+ countries. Manage your emails & offline chats with the new integrated help desk.
 
 "40 Best Plugins Ever!" - Makeuseof.com
 
 "Best live chat plugin for Wordpress" - WPmayor.com
 
-"Easy to install, simple to use, straightforward to configure, and with a wealth of options, their plugin enables a popup window that offers the visitor the ability to instant message you, call you, or engage with you on Twitter or Facebook." - WPMU.org
-
 "Top 10 must have plugins" - MyProgrammingBlog.com
 
 "An extension to your social media presence or Web site" - NetworkWorld 4.5/5
+
+"Easy to install, simple to use, straightforward to configure, and with a wealth of options, their plugin enables a popup window that offers the visitor the ability to instant message you, call you, or engage with you on Twitter or Facebook." - WPMU.org
+
 
 **Watch the Intro video** 
 
@@ -32,30 +33,29 @@ Besides being the fastest live chat service, ClickDesk also allows visitors to c
 
 **Testimonials**
 
-* The process to install this wonderful plugin was fast and simple thanks to your tutorial movie. The plugin works great. I rated it with 6 stars, only because the plugin really earns it! keep up the good work and you make many people happy! Thanks again! - Rien
+* The process to install this wonderful live chat plugin was fast and simple thanks to your tutorial movie. The plugin works great. I rated it with 6 stars, only because the plugin really earns it! keep up the good work and you make many people happy! Thanks again! - Rien
 
 * Thank you for creating such a wonderful service, it has clearly saved the day.
 Your service, ClickDesk, is simply amazing, I have searched the web for hours and came across tens of live chat applications, but using them were complicated and a pain in the head. When my search hit your site, it was different, I knew this is was the rite thing. From setup to usage, its capability of integrating with Skype and other IM applications is gorgeous, and clearly impressive. The back end user page is really neat and user friendly, and the user interface really cool. Once again thank you for making our lives feel good each by the super cool ClickDesk. - Akbar Asif
 
 **Description**
 
-ClickDesk for the first time in the industry **integrates live chat and voice chat directly into your IM** - you can conveniently take chats and answer calls on your IM on computer or mobile phone. Receive chats, calls and email ticket notifications on Google talk or Skype.
+ClickDesk for the first time in the industry **integrates live chat and voice chat directly into your IM** - you can conveniently take chats and answer voice calls on your IM on computer or mobile phone. Receive support chats, calls and email ticket notifications on Google talk or Skype.
 
-Lite help desk allows you to manage all your emails and offline chats from a simple and quick ticketing interface.
+Help desk allows you to manage all your emails and offline chats from a simple and quick ticketing interface.
 Optional Push2Call **has a browser phone** and provides local access number in more than 40 countries for your visitors to reach your business. Optional Help Desk allows you to manage all your customer emails easily. 
 
-NetworkWorld - "an extension to your social media presence or Web site" - rates it 4.5/5.
+**Plugin Setup Video**
 
-Here is the ClickDesk wordpress plugin setup video:
 [youtube http://www.youtube.com/watch?v=oWLMgBkfgaA]
 
 Provide instant answers to your visitors and get more sales. Convert your visitors into customers today!
 
-If you are 'offline' or 'busy' on your IM, ClickDesk live chat plugin displays a tiny **offline form** instead of the live chat and the messages are directly sent to your email. These offline chats are created as 'new tickets' in the built in lite help desk system. Never miss a lead again, even if you are offline!
+If you are 'offline' or 'busy' on your IM, ClickDesk live chat plugin displays a tiny **offline contact form** instead of the live chat button and the messages are directly sent to your email. These offline chats are created as 'new tickets' in the built in lite help desk system. Never miss a lead again, even if you are offline!
 
 We provide templates, color pallete and north-south-east-west position for you to customize the live-chat button and chat forms matching your website.
 
-**Social integrations** with Twitter & Facebook allow your visitors to read your Twitter feed and become your follower directly from ClickDesk. Facebook tab shows all your fans and your visitors can like your fanpage directly.
+**Social toolbar integrations** with Twitter & Facebook allow your visitors to read your Twitter feed and become your follower directly from ClickDesk. Facebook tab shows all your fans and your visitors can like your fanpage directly.
 
 **What is ClickDesk live chat plugin?**
 
@@ -66,7 +66,7 @@ Operators also receive IM notifications when a new ticket is created, updated or
 
 Benefits of ClickDesk
 
-* Receive **live chats on Gtalk, Skype**, MSN, Yahoo or AOL
+* Receive **live chats and calls on Google talk or Skype**
 * Integrated help desk ticketing system to access your emails and offline chat messages
 * Built-in "Click to Call" button powered by Contact-Call plugin
 * Free to use plugin upto 30 chats per month - unlimited plans starting at $9.99/month
@@ -90,6 +90,10 @@ Benefits of ClickDesk
 
 == Changelog ==
 
+= 3.6 =
+* Compatible with Wordpress 3.5
+* Performance optimized
+
 = 3.5.1 =
 * Optimized code
 * Minor bug fixes & description update
@@ -100,7 +104,6 @@ Benefits of ClickDesk
 = 3.4 =
 * Added intro video in the description page
 * Fixed minor bugs
-
 
 = 3.3.1 =
 * Compatible with wordpress 3.4.1
@@ -153,16 +156,17 @@ Benefits of ClickDesk
 
 = Is it Free to use? =
 
-Yes. Live chat plugin along with the wonderful combo feature of help desk, browser phone and is free to use for 1 operator and upto 30 chats per month. Paid plans start at $9.99/month.
+Yes. Live chat plugin along with the wonderful combo features of help desk, browser phone and social toolbar is free to use for 1 operator and upto 30 chats per month. Paid plans start at $9.99/month.
+You can compare our pricing and plans at www.clickdesk.com/pricing.jsp
 
 = What much does it cost? =
 
-**For webvisitor:** FREE. Your web visitors do not pay anything to live chat or call you to get their queries answered. 
+**For webvisitor:** FREE. Your web visitors do not pay anything to live chat or click to call you to get their queries answered. 
 
 **For website owners:** FREE to receive and chat with upto 30 sessions. To add more operators, departments or to upgrade to unlimited chats plan, please visit our <a href="http://www.clickdesk.com/pricing.jsp">pricing page</a>
 
 = Do I get help desk feature for free? =
-Limited offer: All the signed up users can use help desk free.
+Limited offer: All the signed up users can use help desk for free.
 
 
 = Do I have to install any hardware software on my premises to use this widget? =
@@ -180,14 +184,14 @@ After installing and configuring the plugin, you need to signin to your IM (Gtal
 
 You receive the chats and call requests on your IM. Alternatively, you can also sign into these IMs from your smart phone and answer chats. 
 
-If you do not want to receive chats or wish to take ClickDesk to "offline" mode, you can either logoff from your IM or chage the status to 'busy' or 'away'.
+If you do not want to receive chats or wish to take ClickDesk to "offline" mode, please logout of your IM. 
 
 
 == Installation ==
 
 *Wordpress versions:* Wordpress 2.7 or higher.
 
-**How should I setup ClickDesk's Wordpress live chat for my site?**
+**How should I setup ClickDesk's Wordpress live chat button for my site?**
 
 It's very simple. Just follow the easy steps listed below
 
