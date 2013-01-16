@@ -5,8 +5,8 @@ Contributors: jagan.2desk
 Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, voip, voice chat, chat on IM, IM Chat, online support, live contact, Gtalk, SkypeMe, Google Talk, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, csupport, help desk software, live chat wordpress, wordpress live chat plugin, capsule crm, nutshell crm, highrise crm, CRM, ZOHO CRM, client relationship management, contact us, gtalk button
 
 Requires at least: 2.7
-Tested up to: 3.4.2
-Stable tag: 3.5.1
+Tested up to: 3.5
+Stable tag: 3.6
 
 ClickDesk provides a wonderful combo of lightning-fast live chat, built-in browser phone, lite help desk and social toolbar. Install it Free today!
 
