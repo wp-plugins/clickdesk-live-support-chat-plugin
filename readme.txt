@@ -6,7 +6,7 @@ Tags: live chat, widget, plugin, sidebar, side bar, feedback, contact, chat, liv
 
 Requires at least: 2.7
 Tested up to: 3.5
-Stable tag: 3.6
+Stable tag: 4.0
 
 ClickDesk provides a magic bundle of lightning-fast wordpress live chat, voice chat, lite help desk and social toolbar. Install it Free today!
 
@@ -89,6 +89,10 @@ Benefits of ClickDesk
 
 
 == Changelog ==
+
+= 4.0 =
+* Major version release
+* New dashboard, reports & themes
 
 = 3.6 =
 * Compatible with Wordpress 3.5
