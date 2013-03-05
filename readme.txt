@@ -6,7 +6,7 @@ Tags: widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live
 
 Requires at least: 2.7
 Tested up to: 3.5
-Stable tag: 3.6
+Stable tag: 4.0
 
 ClickDesk provides a wonderful combo of lightning-fast live chat, built-in browser phone, lite help desk and social toolbar. Install it Free today!
 
