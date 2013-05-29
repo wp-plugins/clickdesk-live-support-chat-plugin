@@ -2,17 +2,19 @@
 
 Contributors: jagan.2desk
 
-Tags: live chat, widget, plugin, sidebar, side bar, feedback, contact, chat, livechat, live chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, livechatinc, live chat inc, chat with visitors, web chat, webchat, facebook chat, phone, call, skype, zopim, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, contactcall, voip, chat on IM, IM Chat, online support, live contact, Gtalk button, SkypeMe, Google chat button, gtalk chat, AOL, MSN, ICQ, chat button, support, email, contact us, contact plugin, contact form, offline, twitter, facebook, csupport, help desk software, live chat wordpress, wordpress live chat plugin, wordpress live chat
+Tags: live chat, livechat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, live chat inc, web chat, webchat, facebook chat, phone, click to call, skype chat, zopim, snapengage, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, chat on IM, IM Chat, online support, Gtalk button, SkypeMe, Google chat button, gtalk chat, chat button, contact us, contact plugin, contact form, offline, csupport, help desk software, wordpress live chat plugin, wordpress live chat
 
+License: GPLv2 or later
 Requires at least: 2.7
-Tested up to: 3.5
-Stable tag: 4.0
+Tested up to: 3.5.1
+Stable tag: 4.1
 
-ClickDesk provides a magic bundle of lightning-fast wordpress live chat, voice chat, lite help desk and social toolbar. Install it Free today!
+ClickDesk is a value combo of best wordpress live chat, help desk, voice chat and social toolbar for your website. Install it Free today!
 
 == Description ==
 
-Besides being the fastest live chat service, ClickDesk also allows visitors to click to call your business directly from browser or by dialing our local access numbers in 40+ countries. Manage your emails & offline chats with the new integrated help desk.
+Besides being the fastest [live chat](http://clickdesk.com "Live Chat Software") service, ClickDesk also allows visitors to click to call and voice chat with you directly from browser or by dialing our local access numbers available in 40+ countries. Manage your emails & offline chats with the new integrated help desk. ClickDesk releases new webchat feature. Agents can now answer chats on browser, Google talk or Skype.
+
 
 "40 Best Plugins Ever!" - Makeuseof.com
 
@@ -27,6 +29,8 @@ Besides being the fastest live chat service, ClickDesk also allows visitors to c
 
 **Watch the Intro video** 
 
+Got more than 30,000 views!
+
 
 [youtube http://www.youtube.com/watch?v=4Yiyaz0k8yk]
 
@@ -40,10 +44,10 @@ Your service, ClickDesk, is simply amazing, I have searched the web for hours an
 
 **Description**
 
-ClickDesk for the first time in the industry **integrates live chat and voice chat directly into your IM** - you can conveniently take chats and answer voice calls on your IM on computer or mobile phone. Receive support chats, calls and email ticket notifications on Google talk or Skype.
+ClickDesk for the first time in the industry **integrates live chat and voice chat directly into your IM** - you can conveniently take chats and answer voice calls on your IM on computer or mobile phone. Receive support chats, calls and email ticket notifications on the new webchat panel, Google talk or Skype.
 
 Help desk allows you to manage all your emails and offline chats from a simple and quick ticketing interface.
-Optional Push2Call **has a browser phone** and provides local access number in more than 40 countries for your visitors to reach your business. Optional Help Desk allows you to manage all your customer emails easily. 
+Optional Push2Call **has a browser phone** and provides local access number in more than 40 countries for your visitors to call you. Optional Help Desk allows you to manage all your customer emails easily. 
 
 **Plugin Setup Video**
 
@@ -66,15 +70,14 @@ Operators also receive IM notifications when a new ticket is created, updated or
 
 Benefits of ClickDesk
 
-* Receive **live chats and calls on Google talk or Skype**
+* Receive **live chats and calls** on your browser, Google talk or Skype
 * Integrated help desk ticketing system to access your emails and offline chat messages
-* Built-in "Click to Call" button powered by Contact-Call plugin
+* Built-in "Click to Call" button
 * Free to use plugin upto 30 chats per month - unlimited plans starting at $9.99/month
-* Fully hosted and Based on Google cloud
 * Integrated social toolbar with facebook, twitter and other social networks
 * Skype Call - Visitors can skype call you directly
 * **Combo of fastest live chat, voice chat, help desk and social toolbar**
-* Fully customizable - colors, themes, templates, position
+* Fully customizable - colors, themes, language, text, templates & position
 
 **Why should I install ClickDesk live support plugin?**
 
@@ -84,11 +87,16 @@ Benefits of ClickDesk
 * Provide live help and support to website visitors. No contact forms to fill.
 * Get more sales from increased customer base, conversions and customer satisfaction
 * Get local phone numbers in more than 40 countries. Go global and win local trust.
-* Live help your visitors the way you like - On your Skype,  GTalk (Google talk), Mobile or Landline
+* Live help your visitors the way you like - On your browser, Skype,  GTalk (Google talk), Mobile or Landline
 * Secure and reliable live support chat plugin
 
 
 == Changelog ==
+
+= 4.1 =
+* Release of new live chat customization options
+* Release of browser based webchat agent's panel. 
+http://blog.clickdesk.com/easier-faster-better-introducing-the-new-webchat-beta/
 
 = 4.0 =
 * Major version release

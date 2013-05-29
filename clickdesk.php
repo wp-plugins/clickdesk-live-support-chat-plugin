@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: ClickDesk Live-Chat, Help Desk & Live-Call
+Plugin Name: ClickDesk Live Chat, Help Desk & Voice Chat
 Plugin URI: http://www.clickdesk.com
 Description: Add the fastest <strong>live chat, help desk, voice chat & social toolbar</strong> service to your website for FREE. Receive live chats & calls on your Gtalk or Skype. This plugin comes with a free plan.
-Version: 4.0
+Version: 4.1
 Author: ClickDesk
 Author URI: http://www.clickdesk.com
 License: GPL2
