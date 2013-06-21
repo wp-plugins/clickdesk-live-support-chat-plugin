@@ -93,7 +93,7 @@ Benefits of ClickDesk
 
 == Changelog ==
 
-== 4.2 ==
+= 4.2 =
 * Webchat for Wordpress - Answer live chats directly from your wordpress dashboard.
 * New features include agent levels, live chat conferencing and visitor tracking.
 
