@@ -27,7 +27,7 @@ Besides being the fastest [live chat](http://clickdesk.com "Live Chat Software")
 
 **Watch the Intro video**
 
-Got more than 40,000 views!
+Got more than 45,000 views!
 
 
 [youtube http://www.youtube.com/watch?v=4Yiyaz0k8yk]
@@ -43,12 +43,15 @@ Got more than 40,000 views!
 * Built-in help desk ticketing system with automation
 * Live chat conference 
 * Advanced reports to give insights into your business
+* Chat now in any language with click-to-translate feature
+* Send and receive files from chat widget
 * Chat transcripts 
 * Complete web visitor information like location, IP address etc
 * Display Facebook and Twitter information on live chat widget
 * 99.95% uptime guarantee 
 * Seamless integration with Salesforce.com, Sugar CRM, Zendesk, Unbounce and more.
 * 24x7 support
+
 
 
 **Testimonials**
@@ -100,6 +103,7 @@ Agents also receive IM notifications when a new ticket is created, updated or as
 * Updated features like showing visitors in agent panel and enhanced webchat.
 * Webchat for Wordpress - Answer live chats directly from your wordpress dashboard.
 * New features include agent levels, live chat conferencing and visitor tracking.
+* Updated with new features like file transfers, click-to-translate.
 
 = 4.1 =
 * Release of new live chat customization options
