@@ -7,7 +7,7 @@ Tags: live chat, livechat, live-chat, chat, Website Chat, help desk, helpdesk, e
 License: GPLv2 or later
 Requires at least: 2.7
 Tested up to: 3.5.1
-Stable tag: 4.2
+Stable tag: 4.3
 
 ClickDesk is a value combo of best wordpress live chat, help desk, voice chat and social toolbar for your website. Install it Free today!
 
@@ -98,6 +98,9 @@ Agents also receive IM notifications when a new ticket is created, updated or as
 
 
 == Changelog ==
+= 4.3 =
+* CSS updates
+* Cross site scripting fixes and other minor enhancements
 
 = 4.2 =
 * Updated features like showing visitors in agent panel and enhanced webchat.
