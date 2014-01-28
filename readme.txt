@@ -40,6 +40,7 @@ Got more than 45,000 views!
 * Supports multiple languages 
 * Take chats from online agent panel or IM (GTalk and Skype)
 * See website visitors real-time in dashboard
+* Fully compatible on mobile devices including tablets and phones
 * Built-in help desk ticketing system with automation
 * Live chat conference 
 * Advanced reports to give insights into your business
