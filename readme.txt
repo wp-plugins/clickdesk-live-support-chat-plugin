@@ -7,13 +7,13 @@ Tags: live chat, livechat, live-chat, chat, Website Chat, help desk, helpdesk, e
 License: GPLv2 or later
 Requires at least: 2.7
 Tested up to: 3.5.1
-Stable tag: 4.2
+Stable tag: 4.3
 
 ClickDesk is a value combo of best wordpress live chat, help desk, voice chat and social toolbar for your website. Install it Free today!
 
 == Description ==
 
-Besides being the fastest [live chat](http://clickdesk.com "Live Chat Software") service, ClickDesk also allows web visitors to click to call and voice chat with you directly from browser or by dialing our local access numbers available in 40+ countries. Manage your emails & offline chats with the new integrated help desk. Agents can now answer live chats and calls from online agent panel, Google talk or Skype.
+Besides being the fastest [live chat](http://www.clickdesk.com?utm_source=referral&utm_medium=plugin&utm_campaign=wordpress "Live Chat Software") service, ClickDesk also allows web visitors to click to call and voice chat with you directly from browser or by dialing our local access numbers available in 40+ countries. Manage your emails & offline chats with the new integrated help desk. Agents can now answer live chats and calls from online agent panel, Google talk or Skype.
 
 
 **"40 Best Plugins Ever!"** - Makeuseof.com
@@ -40,6 +40,7 @@ Got more than 45,000 views!
 * Supports multiple languages 
 * Take chats from online agent panel or IM (GTalk and Skype)
 * See website visitors real-time in dashboard
+* Fully compatible on mobile devices including tablets and phones
 * Built-in help desk ticketing system with automation
 * Live chat conference 
 * Advanced reports to give insights into your business
@@ -98,6 +99,9 @@ Agents also receive IM notifications when a new ticket is created, updated or as
 
 
 == Changelog ==
+= 4.3 =
+* CSS updates
+* Cross site scripting fixes and other minor enhancements
 
 = 4.2 =
 * Updated features like showing visitors in agent panel and enhanced webchat.
@@ -181,7 +185,7 @@ http://blog.clickdesk.com/easier-faster-better-introducing-the-new-webchat-beta/
 = Is it Free to use? =
 
 Yes. Live chat plugin along with the wonderful combo features of help desk, browser phone and social toolbar is free to use for 1 operator and up to 30 chats per month. Paid plans start at $9.99/month.
-You can check our detailed pricing and plans at www.clickdesk.com/pricing.jsp
+You can check our detailed pricing and plans at http://www.clickdesk.com/pricing.html?utm_source=referral&utm_medium=plugin&utm_campaign=wordpress
 
 = How much does it cost? =
 
@@ -199,7 +203,7 @@ ClickDesk live support is a hosted, cloud based live chat service. It does not n
 
 = It doesn't work yet, what to do? =
 
-Please visit http://www.clickdesk.com to chat with one of our support agents or send us an email at support@clickdesk.com and we will help you with the installation.
+Please visit http://www.clickdesk.com?utm_source=referral&utm_medium=plugin&utm_campaign=wordpress to chat with one of our support agents or send us an email at support@clickdesk.com and we will help you with the installation.
 
 
 == Usage ==
