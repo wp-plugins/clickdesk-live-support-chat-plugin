@@ -17,6 +17,11 @@
 <h1 class="ac" style="margin-bottom:0px;">Live Chat, Video & VoIP, Helpdesk in one system<br/>
 <small>Increase conversions and keep more customers happy with one click ClickDesk installation.</small></h1></br/>
 </header>
+<div class="ac"style="margin-bottom:20px;">
+<a href="admin.php?page=livily_dashboard"><button class="btn success huge"> <b>Go to ClickDesk Dashboard</b></button></a>
+
+</div>
+
 		<div class="row">
 			<!--<div class="span6 offset1"><img class='ac' src="https://www.clickdesk.com/assets/plugin-files/cd-wp-landing.png" /></div> -->
 			<div class="span10 offset1"><a href=""
@@ -27,9 +32,6 @@
 		</div>
 
 <br />
-<div class="ac">
-<a href="admin.php?page=livily_dashboard"><button class="btn success huge"> <b>Go to ClickDesk Dashboard</b></button></a>
-</div>
 </div>
 <br />
 
