@@ -2,18 +2,18 @@
 
 Contributors: jagan.2desk
 
-Tags: live chat, livechat, live-chat, chat, Website Chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, live chat inc, web chat, webchat, Facebook chat, phone, click to call, skype chat, zopim, snapengage, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, chat on IM, IM Chat, online support, Gtalk button, SkypeMe, Google chat button, gtalk chat, chat button, contact us, contact plugin, contact form, offline, csupport, help desk software, wordpress live chat plugin, wordpress live chat, live chat services, php live chat, live chatting, live web chat, chat online, free chat, online chat
+Tags: live chat, livechat, live-chat, chat, Website Chat, help desk, helpdesk, ticketing, support software, live chat software, wordpress live chat, web chat, webchat, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, online support, contact us, contact form, help desk software, live chat services, php live chat, free chat, online chat
 
 License: GPLv2 or later
 Requires at least: 2.7
-Tested up to: 3.5.1
-Stable tag: 4.3
+Tested up to: 4.1
+Stable tag: 4.4
 
-ClickDesk is a value combo of best wordpress live chat, help desk, voice chat and social toolbar for your website. Install it Free today!
+ClickDesk is an awesome combo of live chat, help desk, voice and video chat and social toolbar for your wordpress website. Install it for free today!
 
 == Description ==
 
-Besides being the fastest [live chat](http://www.clickdesk.com?utm_source=referral&utm_medium=plugin&utm_campaign=wordpress "Live Chat Software") service, ClickDesk also allows web visitors to click to call and voice chat with you directly from browser or by dialing our local access numbers available in 40+ countries. Manage your emails & offline chats with the new integrated help desk. Agents can now answer live chats and calls from online agent panel, Google talk or Skype.
+Besides being the fastest [live chat](http://www.clickdesk.com?utm_source=referral&utm_medium=plugin&utm_campaign=wordpress "Live Chat Software") service, ClickDesk also allows web visitors to do voice and video chat from your website directly without installing any additional hardware or software. Manage your emails & offline chats with our new integrated help desk. Agents can now answer live chats, calls and tickets from agent panel, our mobile app or Google talk.
 
 
 **"40 Best Plugins Ever!"** - Makeuseof.com
@@ -34,24 +34,25 @@ Got more than 45,000 views!
 
 **Features**
 
-* Combo of fastest Live chat, Help Desk, Voice Chat and Social toolbar
+* Combo of fastest Live chat, Help Desk, Voice & Video Chat and Social toolbar
+* Advanced chat queueing
 * Works seamlessly across all major browsers
 * Fully customizable - colors, themes, text, templates & position
 * Supports multiple languages 
-* Take chats from online agent panel or IM (GTalk and Skype)
+* Take chats from online agent panel or GTalk
 * See website visitors real-time in dashboard
 * Fully compatible on mobile devices including tablets and phones
 * Built-in help desk ticketing system with automation
-* Live chat conference 
 * Advanced reports to give insights into your business
 * Chat now in any language with click-to-translate feature
 * Send and receive files from chat widget
-* Chat transcripts 
+* Chat transcripts stored for future reference
 * Complete web visitor information like location, IP address etc
 * Display Facebook and Twitter information on live chat widget
 * 99.95% uptime guarantee 
 * Seamless integration with Salesforce.com, Sugar CRM, Zendesk, Unbounce and more.
 * 24x7 support
+* Mobile app to take chats
 
 
 
@@ -66,7 +67,7 @@ Your service, ClickDesk, is simply amazing, I have searched the web for hours an
 
 ClickDesk for the first time in the industry **integrates live chat and voice chat directly into your IM** - you can conveniently take chats and answer voice calls from online panel or on your IM on computer or mobile phone. 
 
-Help desk allows you to manage all your emails and offline chats from a simple and quick ticketing interface. Optional Push2Call **has a browser phone** and provides local access number in more than 40 countries for your visitors to call you.
+Help desk allows you to manage all your emails and offline chats from a simple and quick ticketing interface. 
 
 **Plugin Setup Video**
 
@@ -80,7 +81,7 @@ Provide instant answers to your visitors and get more sales. Convert your visito
 
 **What is ClickDesk live chat plugin?**
 
-ClickDesk plugin lets you **embed 'Live Chat' button**, online and offline forms on your website to let your website visitors click to chat with you directly. Visitors can also make a call to your operator directly by using our free local access numbers in 40+ countries or from their web browser.  
+ClickDesk plugin lets you **embed 'Live Chat' button**, online and offline forms on your website to let your website visitors click to chat with you directly. Visitors can also make an audio or video call directly from their web browser.  
 
 With integrated help desk, your agents can access all the emails and offline chats and answer your customer queries.
 Agents also receive IM notifications when a new ticket is created, updated or assigned to them. **Social toolbar integrations** with Twitter & Facebook allow your visitors to read your Twitter feed and become your follower directly from ClickDesk chat widget. Facebook tab shows all your fans and your visitors can like your fan page directly.
@@ -94,11 +95,15 @@ Agents also receive IM notifications when a new ticket is created, updated or as
 * Get IM alerts for chats, calls and tickets (help desk)
 * Provide live help and support to website visitors. No contact forms to fill.
 * Get more sales from increased customer base, conversions and customer satisfaction
-* Get local phone numbers in more than 40 countries. Go global and win local trust.
 * Secure and reliable live support chat plugin
+* Take chats from mobile app too
 
 
 == Changelog ==
+= 4.4 =
+* Modified images and description
+* Fixed UI alignments and fixes for 4.1 update
+
 = 4.3 =
 * CSS updates
 * Cross site scripting fixes and other minor enhancements
@@ -184,7 +189,7 @@ http://blog.clickdesk.com/easier-faster-better-introducing-the-new-webchat-beta/
 
 = Is it Free to use? =
 
-Yes. Live chat plugin along with the wonderful combo features of help desk, browser phone and social toolbar is free to use for 1 operator and up to 30 chats per month. Paid plans start at $9.99/month.
+Yes. Live chat plugin along with the wonderful combo features of help desk, browser phone and social toolbar is free to use for 1 operator and up to 30 chats per month. Paid plans start at $14.99/month.
 You can check our detailed pricing and plans at http://www.clickdesk.com/pricing.html?utm_source=referral&utm_medium=plugin&utm_campaign=wordpress
 
 = How much does it cost? =
@@ -195,7 +200,6 @@ You can check our detailed pricing and plans at http://www.clickdesk.com/pricing
 
 = Do I get help desk feature for free? =
 Yes. All our users can use help desk for free.
-
 
 = Do I have to install any hardware software on my premises to use this widget? =
 
@@ -208,9 +212,9 @@ Please visit http://www.clickdesk.com?utm_source=referral&utm_medium=plugin&utm_
 
 == Usage ==
 
-After installing and configuring the plugin, you can take chats by logging into the agent panel. If you want to take chats on IM, simply log in to your IM account (Gtalk, Skype, Yahoo or MSN) you have configured in ClickDesk during agent setup. Once you log into the agent panel or IM, ClickDesk detects your status and changes the chat widget status on your wordpress site to "live" mode so your visitors can directly chat with your from your website.
+After installing and configuring the plugin, you can take chats by logging into the agent panel. If you want to take chats on GTalk, simply log in to your IM account and accept automated friend requests once you have configured in ClickDesk during agent setup. Once you log into the agent panel or IM, ClickDesk detects your status and changes the chat widget status on your wordpress site to "live" mode so your visitors can directly chat with your from your website.
 
-You receive the chats and call requests on your agent panel or IM as configured. You can also use the agent panel/IM from your mobile to take chats directly. If you do not want to receive chats or wish to take ClickDesk to "offline" mode, simply logout of your agent panel or IM. 
+You can also use our mobile app to take chats directly on the mobile. If you do not want to receive chats or wish to take ClickDesk to "offline" mode, simply logout of your agent panel or IM. 
 
 
 == Installation ==

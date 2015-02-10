@@ -180,7 +180,7 @@ function livily_dashboard() {
 
    }
 
-   echo '<div id="dashboarddiv"><iframe id="dashboardiframe" src='.livily_sanatize_widget_id($cdURL).''.' height=2000 width=100% scrolling="yes"></iframe></div>';
+   echo '<div id="dashboarddiv"><iframe id="dashboardiframe" src='.livily_sanatize_widget_id($cdURL).''.' height=700 width=100% scrolling="yes"></iframe></div>';
 }
 
 function livily_get_blog_url(){
