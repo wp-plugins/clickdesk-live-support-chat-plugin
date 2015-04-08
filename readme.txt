@@ -2,7 +2,7 @@
 
 Contributors: jagan.2desk
 
-Tags: live chat, livechat, live-chat, chat, Website Chat, help desk, helpdesk, ticketing, support software, live chat software, wordpress live chat, web chat, webchat, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, online support, contact us, contact form, help desk software, live chat services, php live chat, free chat, online chat
+Tags: live chat, livechat, live-chat, chat, Website Chat, help desk, helpdesk, email ticketing, ticketing, support software, live chat software, wordpress live chat, wordpress help desk, live chat inc, web chat, webchat, Facebook chat, phone, click to call, skype chat, zopim, snapengage, zendesk, olark, banckle, clickdesk, click desk, live help, livehelp, livesupport, live support, contact call, chat on IM, IM Chat, online support, Gtalk button, SkypeMe, Google chat button, gtalk chat, chat button, contact us, contact plugin, contact form, offline, csupport, help desk software, wordpress live chat plugin, wordpress live chat, live chat services, php live chat, live chatting, live web chat, chat online, free chat, online chat
 
 License: GPLv2 or later
 Requires at least: 2.7
